@@ -1,1 +1,1 @@
-learn all about bitmaps home made
+game studio to build a game
